@@ -3,4 +3,4 @@ Simple no-dependencies Rust graphics library with basic linear algebra types, 3D
 
 An example `main.rs` file is included, whose dependencies are in `Cargo.toml`. Note there is a bug in the dependencies which requires Rust `1.47.0`.
 
-Partially inspired by the "Fundamentals of Computeer Graphics" (4th edition) by Marschner, Shirley, et. al.
+Partially inspired by the "Fundamentals of Computer Graphics" (4th edition) by Marschner, Shirley, et. al.
